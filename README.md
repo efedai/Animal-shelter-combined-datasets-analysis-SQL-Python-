@@ -1,1 +1,1 @@
-# Data Preparation- preparing and cleaning 3 different type of data sets. Combining the data sets and storing into a SQL database. Then retrieving and performing some data visualization on the data.
+# In this repository i have displayed data Preparation by preparing, cleaning, applying exploratory analysis on 3 different type of data sets. Combined the 3 data sets and stored into a SQL database. Then retrieved and performed data visual analysis on the data.
